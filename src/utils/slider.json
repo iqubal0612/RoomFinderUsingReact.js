@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Men's Delux PG",
+    "price": "6000/month",
+    "detail": " Flat",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Krishna PG",
+    "price": "5500/month",
+    "detail": "PG And Flat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Residence PG",
+    "price": "5000/month",
+    "detail": "PG",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Luxury PG",
+    "price": "8000/month",
+    "detail": "Flat",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "7500/month",
+    "detail": "PG and Flat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "6500/month",
+    "detail": "Flat",
+    "image": "./r3.png"
+  }
+]
